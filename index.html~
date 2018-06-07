@@ -67,7 +67,7 @@
                <li><a href="https://plus.google.com/u/0/101403046781460860002"><i class="fa fa-google-plus"></i></a></li>
                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-              
+              <li><a href="#"><i class="fa fa-github"></i></a></li>
               
             </ul>
          </div>
@@ -194,7 +194,7 @@
                   <div class="item-wrap">
 
                      <a href="#modal-03" title="">
-                        <img alt="" src="images/portfolio/judah.jpg">
+                        <img alt="" src="images/portfolio/judah.png">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
           					      <h5>Judah</h5>
@@ -474,7 +474,7 @@
 
    <!-- Testimonials Section
    ================================================== -->
-   <<!--!section id="testimonials">
+   <!--!section id="testimonials">
 
       <div class="text-container">
 
